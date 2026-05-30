@@ -1,7 +1,7 @@
 {
   "name": "アウジュアKAクエスト",
   "short_name": "KAクエスト",
-  "description": "アウジュア(Aujua) KA対策の すごろくクイズアプリ。World1〜5を冒険しながら毛髪・ヘアケア・接客・ブランド知識をマスター！",
+  "description": "KA対策の すごろくクイズアプリ。World1〜5を冒険しながら毛髪・ヘアケア・接客・ブランド知識をマスター！",
   "lang": "ja",
   "start_url": "./index.html",
   "scope": "./",
